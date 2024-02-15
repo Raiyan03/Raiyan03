@@ -1,4 +1,4 @@
-### Hi there 👋, Raiyan Anwar
+## Raiyan Anwar
 #### Software Developer
 ![Software Developer](https://media.licdn.com/dms/image/D5616AQHaRouX9e8b2A/profile-displaybackgroundimage-shrink_350_1400/0/1704437150625?e=1713398400&v=beta&t=PUKegQWjmNH9GWAbbVsYDX9etnFEzIDmdzeDToTvGaI)
 
@@ -14,7 +14,5 @@ Skills: React / React native / Node JS / Next JS / HTML / CSS / Mongo DB / Oracl
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raiyan03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raiyan-anwar/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raiyan03)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raiyan03&show_icons=true)  
+ 
 
