@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raiyan</h1>
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raiyan03&label=Profile%20views&color=0e75b6&style=flat" alt="raiyan03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raiyan03" alt="raiyan03" /></a> </p>
-
 - 🔭 I’m currently working on [YouDit](https://github.com/Raiyan03/youdit)
 
 - 🌱 I’m currently pursuing **Dimploma in Software Development**
