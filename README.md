@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [YouDit](https://github.com/Raiyan03/youdit)
 
-- 🌱 I’m currently pursuing **Dimploma in Software Development**
+- 🌱 I’m currently pursuing **Bsc Computer Science**
 
 - 💬 Ask me about **Next JS and MERN stack**
 
