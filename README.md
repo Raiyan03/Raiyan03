@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursuing **Bsc Computer Science**
 
-- 💬 Ask me about **Next JS and MERN stack**
+- 💬 Ask me about **Next JS, MERN stack and Python**
 
 - 📫 How to reach me **raiyananwar.12@gmail.com**
 
